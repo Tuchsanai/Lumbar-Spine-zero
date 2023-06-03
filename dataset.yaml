@@ -1,0 +1,4 @@
+names:
+- Lumbar
+train: ./train/images
+val: ./test/images

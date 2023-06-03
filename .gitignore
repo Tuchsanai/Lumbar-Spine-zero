@@ -1,8 +1,10 @@
 /BUU-LSPINE (Vertebral position)
 /lumbar.zip
 /best_epoch.pt
+yolov8n-seg.pt
 best_epoch.pt
-
+/datasets
+/runs
 
 
 .ipynb_checkpoints
