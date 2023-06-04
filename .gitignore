@@ -5,6 +5,8 @@ yolov8n-seg.pt
 best_epoch.pt
 /datasets
 /runs
+kaggle.json
+dataset.yaml
 
 
 .ipynb_checkpoints
