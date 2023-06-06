@@ -1,5 +1,0 @@
-names:
-- L
-- S
-train: ./train/images
-val: ./test/images

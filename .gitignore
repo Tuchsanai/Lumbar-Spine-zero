@@ -5,7 +5,7 @@ yolov8n-seg.pt
 best_epoch.pt
 /datasets
 /runs
-/kaggle.json
+kaggle.json
 dataset.yaml
 
 
